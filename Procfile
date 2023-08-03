@@ -1,0 +1,1 @@
+web: gunicorn ethfund.wsgi --log-file -
